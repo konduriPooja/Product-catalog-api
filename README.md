@@ -50,6 +50,7 @@ product_catalog/
 ### 1️⃣ Clone Repository
 
 git clone https://github.com/konduriPooja/Product-catalog-api.git
+
 cd product_catalog
 
 ---
@@ -105,6 +106,3 @@ Sensitive information is not stored in the repository.
 
 ---
 
-## ✅ Status
-
-Project completed with CRUD functionality and PostgreSQL integration.
